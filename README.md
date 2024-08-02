@@ -1,6 +1,6 @@
 # NodeConsoleMenu
 
-This is a Node.js TypeScript console application that renders a menu list of options.
+Node.js console application template written in TypeScript. Provides a framework for creating menu-driven CLI programs.
 
 - Use the `UP` and `DOWN` arrows to choose a menu item.
 - Use the `ENTER` key to select the chosen item.
